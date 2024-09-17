@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: #212121;color: #fff;">
+<body>
+    <ul class="language">
+        <li>javascript</li>
+    </ul>
+    
+</body>
+<script>
+    function addLangauge(langName) {
+        const li=document.createElement('li');
+        li.innerHTML={langName}
+        document.querySelector('.langauge')
+        appendChild(li)
+        
+
+    }
+    addLangauge("python")
+    addLangauge("C++")
+    function addOptionLangauge(langName){
+        const li=documnet.createElement('li')
+        li.appendChild(document.createTextNode(langName))
+        documnet.querySelector('.langauge').appendChild(li)
+
+    }
+    addOptiLanguage('golang')
+</script>
+</html>
+
