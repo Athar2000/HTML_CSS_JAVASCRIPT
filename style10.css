@@ -1,0 +1,9 @@
+#headingOne{
+    color: hsl(133, 76%, 33%);
+}
+#headingTwo{
+    color: indigo;
+}
+.myclass{
+    color: coral;
+}

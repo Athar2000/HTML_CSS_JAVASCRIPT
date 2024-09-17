@@ -1,0 +1,13 @@
+div{
+    background-color: pink;
+    display:flex;
+}
+a {
+    text-decoration: :none;
+    color: black;
+    background-color: aqua;
+}
+li{
+    list-style: none;
+    display:inline;
+}

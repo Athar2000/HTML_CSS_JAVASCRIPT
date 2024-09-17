@@ -1,0 +1,14 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border:2px solid black;
+    display: inline-block;
+
+}
+#box1{
+   background-image: url("c:\Users\athar\OneDrive\Pictures\Screenshots\Screenshot 2024-08-16 001327.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}

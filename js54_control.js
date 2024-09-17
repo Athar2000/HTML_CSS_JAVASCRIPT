@@ -1,0 +1,6 @@
+let val2;
+val2=5??20
+val2=null??20
+val2=undefined??20
+val2=null??7??29
+console.log(val2)
